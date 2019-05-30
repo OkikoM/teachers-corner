@@ -1,0 +1,1 @@
+This is a coaching blog system for Cliff Okiko. Programmer, Teacher, Coach, Mentor, Life long student of the mind.
